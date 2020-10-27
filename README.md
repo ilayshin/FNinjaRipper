@@ -22,7 +22,7 @@ Modifed [Ninja Ripper](https://cgig.ru/ninjaripper/) for fortnite, especially fo
 
 • Launch `FortniteLauncher.exe`
   
-  ◘ On `Exe:` select your `FortniteClient-Win64-Shipping.exe` where ever your fortnite client at. 
+  ◘ On `Exe:` select your `FortniteClient-Win64-Shipping.exe` where ever your fortnite client (THE FULL CLIENT). 
 
 • on `Arg:` add `-epicapp=Fortnite -epicenv=Prod -epiclocale=en-us -epicportal -noeac -nobe -fltoken=8c4aa8a9b77acdcbd918874b -AUTH_LOGIN=FNinjaRipper@unused.com -AUTH_PASSWORD=unused -AUTH_TYPE=epic`
   
