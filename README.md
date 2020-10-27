@@ -12,11 +12,11 @@ Modifed [Ninja Ripper](https://cgig.ru/ninjaripper/) for fortnite, especially fo
 
 ![Preivew](https://media.discordapp.net/attachments/622488706040987658/770426416248127548/unknown.png)
 
-• Navigate to `\ripper\` Launch `Bypass.exe`
+• Launch `FortniteLauncher.exe`
   
   ◘ if it says `ready for ninja ripper launch` you are all good.
 
-• Open `FortniteLauncher.exe`
+• Navigate to `\ripper` and Open `FortniteLauncher.exe`
   
   ◘ On `exe:` select your `FortniteClient-Win64-Shipping.exe` where ever your fortnite client at. 
 
