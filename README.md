@@ -34,5 +34,5 @@ Modifed [Ninja Ripper](https://cgig.ru/ninjaripper/) for fortnite, especially fo
 
 • To rip any texture make sure its on screen (E.G go to locker) then hit your texture extracting bind.
 
-(Colors maybe not the best sometimes, you can adjust that on your DDS Converter at all)
+(Colors maybe not the best sometimes, you can adjust that on your [DDS Converter](http://www.softsea.com/download/DDS-Converter.html) at all)
 (If you are here for skin icons icons are mostly about 1,025 KB ;)
