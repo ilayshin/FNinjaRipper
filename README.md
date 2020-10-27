@@ -19,6 +19,8 @@ Modifed [Ninja Ripper](https://cgig.ru/ninjaripper/) for fortnite, especially fo
 • Open `FortniteLauncher.exe`
   
   ◘ On `exe:` select your `FortniteClient-Win64-Shipping.exe` where ever your fortnite client at. 
+
+• on `dir:` add `-epicapp=Fortnite -epicenv=Prod -epiclocale=en-us -epicportal -noeac -nobe -fltoken=8c4aa8a9b77acdcbd918874b -AUTH_LOGIN=FNinjaRipper@unused.com -AUTH_PASSWORD=unused -AUTH_TYPE=epic`
   
 ◘ Optional: Change your Output dir and settings.
 
